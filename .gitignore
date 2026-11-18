@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Tarball packages
+*.tgz
+
+# Separate demo project (has its own repository)
+rowproof-demo/
+
+# Temporary files
+*.tmp
+*.bak
+.env
